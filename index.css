@@ -10,3 +10,7 @@ body {
 h1 {
   font-family: "Arial";
 }
+
+p {
+  text-align: left;
+}
