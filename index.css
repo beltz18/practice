@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  color: blue;
+}
+
+#container {
+  border: 1px solid black;
+  margin: 20px;
+}
+
+h1 {
+  font-family: "Arial";
+}
+
+p {
+  text-align: left;
+}
